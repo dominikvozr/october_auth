@@ -1,0 +1,18 @@
+{
+	"name": "dondo/auth-plugin",
+	"type": "october-plugin",
+	"description": "Enter a meaningful description here",
+	"require": {
+		"composer/installers": "~1.0",
+		"laravel/sanctum": "^3.0",
+		"fruitcake/laravel-cors": "^3.0"
+	},
+	"require-dev": {
+		"laravel/breeze": "^1.14"
+	},
+	"config": {
+		"allow-plugins": {
+			"composer/installers": true
+		}
+	}
+}

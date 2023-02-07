@@ -1,0 +1,6 @@
+plugin:
+    name: 'dondo.auth::lang.plugin.name'
+    description: 'dondo.auth::lang.plugin.description'
+    author: Dondo
+    icon: oc-icon-adjust
+    homepage: ''
